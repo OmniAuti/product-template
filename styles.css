@@ -109,19 +109,19 @@
   }
 
 
-  .ctaone {
+  .ctaone img {
     transition: all ease-in-out 500ms;
 }
 
-.ctaone:hover {
+.ctaone:hover img {
   transform: rotate(90deg) translateX(-35px)
 }
 
-.ctatwo {
+.ctatwo img {
   transition: all ease-in-out 1000ms;
 }
 
-.ctatwo:hover {
+.ctatwo:hover img{
 transform: scale(1.2) translateY(-35px);
 }
 
@@ -134,10 +134,10 @@ transform: scale(1.2) translateY(-35px);
   padding: 0;
   margin-left: 2%;
   box-shadow: none;
-  transition: all ease-in-out 2000ms;
+  transition: all ease-in-out 1000ms;
 }
 
-#fire:hover {
+.ctathree:hover #fire {
   background-color: rgba(255, 0, 4, 0.9);
 }
 
