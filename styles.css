@@ -219,6 +219,10 @@ transform: scale(1.2) translateY(-35px);
       color: #000;
   }
 
+
+  .box-h2 {
+    margin: 1em 0 1em 0;
+  }
   
   
   button {
